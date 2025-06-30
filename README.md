@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 📦 My NPM Packages
+
+### [pillars-cli](https://www.npmjs.com/package/pillars-cli)
+
+A CLI tool to scaffold project structures easily with TypeScript, Jest, and more.
+
+```bash
+npm install -g pillars-cli
